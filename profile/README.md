@@ -10,6 +10,8 @@ communication, and shared development tooling.
   and plans for the project.
 - [json_config](https://github.com/nomisma-labs/json_config): typed C++ application
   configuration with JSON loading and Python configuration generation.
+- [asio_comm](https://github.com/nomisma-labs/asio_comm): asynchronous TLS WebSocket
+  and HTTPS clients, timers, and cryptocurrency market-data examples.
 
 ## Architecture
 
