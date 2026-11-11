@@ -14,6 +14,7 @@ communication, and shared development tooling.
   configuration with JSON loading and Python configuration generation.
 - [asio_comm](https://github.com/nomisma-labs/asio_comm): asynchronous TLS WebSocket
   and HTTPS clients, timers, and cryptocurrency market-data examples.
+- [MD capture](https://github.com/nomisma-labs/md_capture): collection of MD capture components.
 
 ## Architecture
 
