@@ -8,6 +8,8 @@ communication, and shared development tooling.
 
 - [Handbook](https://github.com/nomisma-labs/handbook): purpose, architecture, decisions,
   and plans for the project.
+- [assembly](https://github.com/nomisma-labs/assembly): static application composition,
+  typed event routing, and callback delegates.
 - [json_config](https://github.com/nomisma-labs/json_config): typed C++ application
   configuration with JSON loading and Python configuration generation.
 - [asio_comm](https://github.com/nomisma-labs/asio_comm): asynchronous TLS WebSocket
