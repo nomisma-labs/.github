@@ -6,6 +6,7 @@ communication, and shared development tooling.
 
 ## Start here
 
+- [Dev Journal](https://nomisma-labs.github.io/) : current implementation progress and related articles.
 - [Handbook](https://github.com/nomisma-labs/handbook): purpose, architecture, decisions,
   and plans for the project.
 - [assembly](https://github.com/nomisma-labs/assembly): static application composition,
